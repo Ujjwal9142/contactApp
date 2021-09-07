@@ -1,0 +1,35 @@
+.add_main {
+  color: white;
+  text-align: left;
+  width: 95%;
+  margin-left: auto;
+  margin-right: auto;
+}
+.add_main h2 {
+  font-size: 2rem;
+}
+.add_main_name {
+  margin: 0.7rem 0rem;
+}
+label {
+  margin-bottom: 2rem;
+  font-size: 1.3rem;
+}
+input {
+  width: 100%;
+  height: 2rem;
+  border-radius: 0.35rem;
+  margin-top: 0.5rem;
+}
+::placeholder {
+  padding-left: 0.6rem;
+}
+.addContact_button {
+  margin-top: 1.7rem;
+  background-color: #dc3545;
+  border: none;
+  border-radius: 0.2rem;
+  padding: 0.7rem 1.4rem;
+  color: white;
+  font-size: 1.1rem;
+}

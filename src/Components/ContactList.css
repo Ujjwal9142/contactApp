@@ -1,0 +1,56 @@
+.contact_main {
+  color: white;
+  margin-top: 1rem;
+  text-align: left;
+  width: 95%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 1.5rem;
+}
+.contact_main h2 {
+  font-size: 2rem;
+}
+.contacts_showList {
+  display: flex;
+  justify-content: left;
+}
+.contacts_showList img {
+  margin-top: 1.35rem;
+  padding-right: 1rem;
+}
+.contacts_showList h5 {
+  font-size: 0.83rem;
+}
+.TrashImage {
+  padding-top: 1.5rem;
+}
+.contacts_showListmain {
+  display: flex;
+  justify-content: space-between;
+  border-bottom: 2px solid gray;
+}
+.no_contacts {
+  border-radius: 0.5rem;
+  text-align: center;
+  width: 30%;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 0.8rem;
+  margin-top: 4rem;
+  font-size: 1.2rem;
+  font-weight: bold;
+  background-color: white;
+  color: black;
+}
+.contact_main button {
+  background-color: #28a745;
+  border: none;
+  border-radius: 0.3rem;
+  padding: 0.7rem 1.2rem;
+  color: white;
+  font-size: 1.3rem;
+  text-align: center;
+  margin-top: 3.5rem;
+  left: 44.5%;
+  position: absolute;
+}
